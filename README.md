@@ -1,5 +1,7 @@
 Calculator Program
+
 This is a command-line calculator program written in Python. It allows users to perform basic arithmetic operations, including addition, subtraction, multiplication, and division. The program features an interactive session where users can continue calculations with the current result, start a new calculation, or exit.
+
 Features
   Perform basic arithmetic operations:
   Addition (+)
